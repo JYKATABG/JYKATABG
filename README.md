@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JYKATABG
-- 👀 I’m interested in coding/scripting
-- 🌱 I’m currently learning discord bot dev and fivem lua scripting
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
