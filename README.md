@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jykata
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning Javascript, NodeJS, Express, etc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jykatabg@gmail.com
 
